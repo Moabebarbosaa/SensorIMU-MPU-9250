@@ -1,7 +1,6 @@
 # Sensor IMU-MPU-9250 (Técnicas de Prototipagem)
 
-Um parágrafo da descrição do projeto vai aqui
-
+O MPU9250 é um chip que tem um acelerômetro de 3 eixos, um giroscópio de 3 eixos e magnetômetro (sensor de campo magnético), também de 3 eixos. Aliado ao sensor de pressão BMP280, que se caracteriza pelo baixo consumo de energia, você tem um módulo com 10DOF (Degrees of Freedom), tudo isso em uma minúscula placa.
 
 
 ### 📋 Aplicações
