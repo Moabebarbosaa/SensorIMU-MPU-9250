@@ -9,4 +9,10 @@ O MPU9250 é um chip que tem um acelerômetro de 3 eixos, um giroscópio de 3 ei
 * **Acelerômetro -** aceleração de um carro.
 * **Bússula -** pode medir a direção da bússola, permitindo ao dispositivo saber sua orientação em relação ao norte magnético, semelhante ao funcionamento de uma bússola portátil.
 
-#:green_book:
+📗 Nossa aplicação será um dispositivo para medir a aceleração de um carro e fazer a indicação de direção.
+
+🧾 Alguns dos componentes que utilizaremos:
+
+  ➡️ Microcontrolador Atmega 328p
+  ➡️ Sensor IMU-MPU-9250
+  ➡️ Display Oled
