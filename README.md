@@ -11,6 +11,8 @@ O MPU9250 é um chip que tem um acelerômetro de 3 eixos, um giroscópio de 3 ei
 
 📗 Nossa aplicação será um dispositivo para medir a aceleração de um carro e fazer a indicação de direção.
 
+Objetivo: Ao analisar a variação da aceleração é possível identificar que o carro está em movimento e medir qual a aceleração como forma do motorista se orientar para excesso de velocidade. Além disso o disposito também indicará qual a direção que o motorista está percorrendo.
+
 🧾 Alguns dos componentes que utilizaremos:
 
   ➡️ Microcontrolador Atmega 328p
