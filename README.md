@@ -19,4 +19,5 @@ Objetivo: Ao analisar a variação da aceleração é possível identificar que 
   ➡️ Sensor IMU-MPU-9250
   ➡️ Display Oled
 
-https://drive.google.com/drive/folders/1gVeTYRhP5gSUuyDoxihd5mW5vrwc_VHs?usp=sharing
+## 📌 Vídeos
+  * https://drive.google.com/drive/folders/1gVeTYRhP5gSUuyDoxihd5mW5vrwc_VHs?usp=sharing
